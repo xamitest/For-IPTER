@@ -1,0 +1,11 @@
+C:\Users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ModulePR\obj\Debug\ModulePR.csprojResolveAssemblyReference.cache
+C:\Users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ModulePR\bin\Debug\ModulePR.dll
+C:\Users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ModulePR\bin\Debug\ModulePR.pdb
+C:\Users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ModulePR\obj\Debug\ModulePR.dll
+C:\Users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ModulePR\obj\Debug\ModulePR.pdb
+C:\Users\1\Desktop\ConsoleApplication3\ModulePR\bin\Debug\ModulePR.dll
+C:\Users\1\Desktop\ConsoleApplication3\ModulePR\bin\Debug\ModulePR.pdb
+C:\Users\1\Desktop\ConsoleApplication3\ModulePR\obj\Debug\ModulePR.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\ConsoleApplication3\ModulePR\obj\Debug\ModulePR.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ConsoleApplication3\ModulePR\obj\Debug\ModulePR.dll
+C:\Users\1\Desktop\ConsoleApplication3\ModulePR\obj\Debug\ModulePR.pdb

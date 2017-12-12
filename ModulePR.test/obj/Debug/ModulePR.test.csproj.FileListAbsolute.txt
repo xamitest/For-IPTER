@@ -1,0 +1,19 @@
+C:\Users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ModulePR.test\bin\Debug\ModulePR.test.dll
+C:\Users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ModulePR.test\bin\Debug\ModulePR.test.pdb
+C:\Users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ModulePR.test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ModulePR.test\bin\Debug\ModulePR.dll
+C:\Users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ModulePR.test\bin\Debug\ModulePR.pdb
+C:\Users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ModulePR.test\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ModulePR.test\obj\Debug\ModulePR.test.csprojResolveAssemblyReference.cache
+C:\Users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ModulePR.test\obj\Debug\ModulePR.test.dll
+C:\Users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ModulePR.test\obj\Debug\ModulePR.test.pdb
+C:\Users\1\Desktop\ConsoleApplication3\ModulePR.test\bin\Debug\ModulePR.test.dll
+C:\Users\1\Desktop\ConsoleApplication3\ModulePR.test\bin\Debug\ModulePR.test.pdb
+C:\Users\1\Desktop\ConsoleApplication3\ModulePR.test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\1\Desktop\ConsoleApplication3\ModulePR.test\bin\Debug\ModulePR.dll
+C:\Users\1\Desktop\ConsoleApplication3\ModulePR.test\bin\Debug\ModulePR.pdb
+C:\Users\1\Desktop\ConsoleApplication3\ModulePR.test\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\1\Desktop\ConsoleApplication3\ModulePR.test\obj\Debug\ModulePR.test.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\ConsoleApplication3\ModulePR.test\obj\Debug\ModulePR.test.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ConsoleApplication3\ModulePR.test\obj\Debug\ModulePR.test.dll
+C:\Users\1\Desktop\ConsoleApplication3\ModulePR.test\obj\Debug\ModulePR.test.pdb

@@ -1,0 +1,17 @@
+c:\users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+c:\users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ModulePR.dll
+C:\Users\fassahovvi\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ModulePR.pdb
+C:\Users\1\Desktop\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\1\Desktop\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\1\Desktop\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\1\Desktop\ConsoleApplication3\ConsoleApplication3\bin\Debug\ModulePR.dll
+C:\Users\1\Desktop\ConsoleApplication3\ConsoleApplication3\bin\Debug\ModulePR.pdb
+C:\Users\1\Desktop\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\1\Desktop\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

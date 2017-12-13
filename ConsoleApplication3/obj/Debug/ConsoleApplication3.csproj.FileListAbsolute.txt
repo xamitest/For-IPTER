@@ -15,3 +15,11 @@ C:\Users\1\Desktop\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleAppl
 C:\Users\1\Desktop\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.CoreCompileInputs.cache
 C:\Users\1\Desktop\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
 C:\Users\1\Desktop\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\ConsoleApplication3\ConsoleApplication3\bin\Debug\ModulePR.dll
+D:\ConsoleApplication3\ConsoleApplication3\bin\Debug\ModulePR.pdb
+D:\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache

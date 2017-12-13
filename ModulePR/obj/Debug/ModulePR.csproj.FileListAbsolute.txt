@@ -9,3 +9,8 @@ C:\Users\1\Desktop\ConsoleApplication3\ModulePR\obj\Debug\ModulePR.csprojResolve
 C:\Users\1\Desktop\ConsoleApplication3\ModulePR\obj\Debug\ModulePR.csproj.CoreCompileInputs.cache
 C:\Users\1\Desktop\ConsoleApplication3\ModulePR\obj\Debug\ModulePR.dll
 C:\Users\1\Desktop\ConsoleApplication3\ModulePR\obj\Debug\ModulePR.pdb
+D:\ConsoleApplication3\ModulePR\bin\Debug\ModulePR.dll
+D:\ConsoleApplication3\ModulePR\bin\Debug\ModulePR.pdb
+D:\ConsoleApplication3\ModulePR\obj\Debug\ModulePR.csprojResolveAssemblyReference.cache
+D:\ConsoleApplication3\ModulePR\obj\Debug\ModulePR.dll
+D:\ConsoleApplication3\ModulePR\obj\Debug\ModulePR.pdb

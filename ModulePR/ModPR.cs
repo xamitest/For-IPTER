@@ -14,12 +14,12 @@ namespace ModulePR
             Array.Sort(Mass);
             int[] DtCoord = new int[Mass.Length - 1];
             int index = 0;
-            for (int i = 0; i < Mass.Count() - 1; i++)
-            { // массив разниц между координатами
+            for (int i = 0; i < Mass.Count() - 1; i++)// массив разниц между координатами
+            { 
                 DtCoord[i] = Mass[i + 1] - Mass[i];
             }
             int maxel = int.MaxValue;
-            for (int i = 0; i < DtCoord.Count(); i++) // ищем минимальную разницу между координатами, считаем что чем разные методы указывающие примерно в одну координату верно определили место утечки.
+            for (int i = 0; i < DtCoord.Count(); i++) // Ищем индекс минимального значения 
             {
                 if (DtCoord[i] <= maxel)
                 {
